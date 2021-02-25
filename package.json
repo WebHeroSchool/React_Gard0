@@ -1,0 +1,22 @@
+{
+  "name": "hello.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "hello",
+    "create": "build.js",
+    "delete": "rm -rf build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poroh89/widget_py.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poroh89/widget_py/issues"
+  },
+  "homepage": "https://github.com/poroh89/widget_py#readme"
+}
